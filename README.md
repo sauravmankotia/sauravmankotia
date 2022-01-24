@@ -26,7 +26,7 @@ Hi,I'm Saurav Mankotia 🙌, a Flutter Developer. Apart from that I love creatin
 
 
 
-<img align="right" alt="GIF" src="https://github.com/MICR00/MICR00/blob/c1d929eabf1d390d3bbda56eda2739cdd6fa9914/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/sauravmankotia/MICR00/blob/c1d929eabf1d390d3bbda56eda2739cdd6fa9914/code.gif?raw=true" width="500" height="320" />
 
 
 **Languages and Tools:**
