@@ -1,16 +1,43 @@
-### Hi there 👋
+### Hello World 👋 It's [Saurav Mankotia!](https://github.com/MICR00/)
 
-<!--
-**sauravmankotia/sauravmankotia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/MICR00/">
+<img align="left" alt="Saurav Mankotia | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://github.com/MICR00/">
+<img align="left" alt="Saurav Mankotia " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/MICR00/">
+<img align="left" alt="Saurav Mankotia " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+<a href="https://github.com/MICR00/">
+<img align="left" alt="Saurav Mankotia " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://github.com/MICR00/">
+<img align="left" alt="Saurav Mankotia  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+<br />
+
+<br />
+
+Hi,I'm Saurav Mankotia 🙌, a Flutter Developer. Apart from that I love creating AR filters on Instagram and Snapchat.❤✌
+
+
+
+<img align="right" alt="GIF" src="https://github.com/MICR00/MICR00/blob/c1d929eabf1d390d3bbda56eda2739cdd6fa9914/code.gif?raw=true" width="500" height="320" />
+
+
+**Languages and Tools:**
+
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/59649373/131637563-b9c3df33-55b1-4725-a2f2-3922b5393abf.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+
+
+![Saurav's github stats](https://github-readme-stats.vercel.app/api?username=micr00&show_icons=true&hide_border=true)
