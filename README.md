@@ -1,21 +1,21 @@
-### Hello World 👋 It's [Saurav Mankotia!](https://github.com/MICR00/)
+### Hello World 👋 It's [Saurav Mankotia!](https://github.com/sauravmankotia/)
 
 <br/>
 
 
-<a href="https://github.com/MICR00/">
+<a href="https://github.com/sauravmankotia/">
 <img align="left" alt="Saurav Mankotia | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://github.com/MICR00/">
+<a href="https://github.com/sauravmankotia/">
 <img align="left" alt="Saurav Mankotia " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/MICR00/">
+<a href="https://github.com/sauravmankotia/">
 <img align="left" alt="Saurav Mankotia " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
-<a href="https://github.com/MICR00/">
+<a href="https://github.com/sauravmankotia/">
 <img align="left" alt="Saurav Mankotia " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://github.com/MICR00/">
+<a href="https://github.com/sauravmankotia/">
 <img align="left" alt="Saurav Mankotia  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <br />
