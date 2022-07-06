@@ -1,43 +1,28 @@
-### Hello World 👋 It's [Saurav Mankotia!](https://github.com/sauravmankotia/)
+Hi 👋 My name is SAURAV MANKOTIA
+================================
 
-<br/>
+Flutter Developer
+-----------------
 
-
-<!-- <a href="https://github.com/sauravmankotia/">
-<img align="left" alt="Saurav Mankotia | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a> -->
-<a href="linkedin.com/in/saurav-mankotia-b16b76194">
-<img align="left" alt="Saurav Mankotia " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<!-- <a href="https://github.com/sauravmankotia/">
-<img align="left" alt="Saurav Mankotia " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a> -->
-<!-- <a href="https://github.com/sauravmankotia/">
-<img align="left" alt="Saurav Mankotia " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://github.com/sauravmankotia/">
-<img align="left" alt="Saurav Mankotia  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a> -->
-<br />
-
-<br />
-
-Hi,I'm Saurav Mankotia 🙌, a Flutter Developer. Apart from that I love creating AR filters on Instagram and Snapchat.❤✌
-
-
-
-<img align="right" alt="GIF" src="https://github.com/sauravmankotia/MICR00/blob/c1d929eabf1d390d3bbda56eda2739cdd6fa9914/code.gif?raw=true" width="500" height="320" />
-
-
-**Languages and Tools:**
-
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/59649373/131637563-b9c3df33-55b1-4725-a2f2-3922b5393abf.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-
-
-![Saurav's github stats](https://github-readme-stats.vercel.app/api?username=sauravmankotia&show_icons=true&hide_border=true)
+*   🌍  I'm based in Chandigarh ,Punjab
+*   ✉️  You can contact me at [sauravmankotia99@gmail.com](mailto:sauravmankotia99@gmail.com)
+*   🧠  I'm learning Flutter, Dart , Javascript
+*   🤝  I'm open to collaborating on Flutter Projects### Skills<p align="left">
+                                <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
+                                <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+                                <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+                                <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+                                <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+                                <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+                                <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+                    </p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://www.github.com/sauravmankotia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/sauravmankotia"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=sauravmankotia&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
+                      href="http://www.github.com/sauravmankotia"><img src="https://activity-graph.herokuapp.com/graph?username=sauravmankotia&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
